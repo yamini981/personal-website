@@ -1,3 +1,23 @@
+html {
+    height:100%;
+}
+
 body {
-    background-image: linear-gradient(10deg, #CCFFFF, #FFCCCC);
+    background-image: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+    padding-top: 15rem;
+}
+
+h1, h2 {
+    font-family: 'Raleway', 'Roboto', sans-serif;
+    text-align:center;
+    line-height: 0.1;
+}
+h1 {
+    font-size: 6rem;
+    font-weight: 700;
+}
+
+h2 {
+    font-style: italic;
+    font-weight: 100;
 }
